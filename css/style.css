@@ -101,7 +101,7 @@ h6 {
 }
 @media only screen and (max-width: 650px) {
   .search-bar {
-    width: 450px;
+    width: 400px;
   }
   .sub-title {
     margin-top: 200px;
